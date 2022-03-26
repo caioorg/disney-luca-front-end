@@ -3,7 +3,7 @@ import { pixelToRem } from '@styles/pxToRem'
 import { device } from '@styles/responsive'
 
 export const Container = styled.div`
-  max-width: ${pixelToRem(1360)};
+  max-width: ${pixelToRem(1280)};
   width: 100%;
   margin: 0 auto;
   padding: ${pixelToRem(40)} 0;
